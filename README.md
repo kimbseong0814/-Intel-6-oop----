@@ -13,6 +13,7 @@ C++의 객체지향을 기반으로 코드를 설계하는 것을 목표했습�
 
 ### 📽 발표 영상  
 [![발표 영상 1](http://img.youtube.com/vi/ORD_UKE6owQ/0.jpg)](https://www.youtube.com/watch?v=ORD_UKE6owQ)
+
 조작 설명서 1
 1. 조이스틱 이용하여 개구리 조작 가능 (위, 아래, 왼쪽, 오른쪽)
 2. 자동차 좌우 이동하면서 개구리 신호등 걷는 것을 방해
@@ -24,6 +25,7 @@ C++의 객체지향을 기반으로 코드를 설계하는 것을 목표했습�
 
 ### 📽 발표 영상  
 [![발표 영상 2](http://img.youtube.com/vi/vi1RhuAjX5g/0.jpg)](https://www.youtube.com/watch?v=vi1RhuAjX5g)
+
 조작 설명서 2
 1. 조이스틱 이용하여 개구리 조작 가능 (위, 아래, 왼쪽, 오른쪽)
 2. 자동차 좌우 이동하면서 개구리 신호등 걷는 것을 방해
